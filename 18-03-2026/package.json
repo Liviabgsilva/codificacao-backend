@@ -1,0 +1,25 @@
+{
+  "name": "18-03-2026",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Liviabgsilva/codificacao-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Liviabgsilva/codificacao-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liviabgsilva/codificacao-backend.git"
+  },
+  "license": "ISC",
+  "author": "lívia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+ 
+  },
+  "devDependencies": {}
+}
