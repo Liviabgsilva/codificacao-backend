@@ -28,4 +28,4 @@ PUT → substitui o objeto inteiro
 Ser apagados
 Ser resetados
  Ser substituídos por valores padrão (null, por exemplo)
-
+ ###
