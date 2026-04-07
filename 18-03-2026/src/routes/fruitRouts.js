@@ -1,9 +1,9 @@
 import expresss from 'express';
-import {fruitservice} from '../services/fruit.service.js';
+import {corservice} from '../services/cor.service.js';
 const route = expresss.Router();
 
 route.get("/", (req,res) => {
-    const dado = fruitservice.getAll()
+    const dado = corservice.getAll()
     res.json(dado)
 
 })

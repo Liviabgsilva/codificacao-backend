@@ -1,8 +1,8 @@
 const fruits = [
-    {id:1,nome:"Morango", cor:"vermelho"},
-    {id:2,nome:"Banana", cor: "Amarelo"},
-    {id:3,nome:"cereja", cor:"Vermelho"},
-    {id:4,nome:"abacaxi", cor:"Amarelo"},
+    {id:1,nome:"Amarelo", cor:"vermelho"},
+    {id:2,nome:"Laranja", cor: "Amarelo"},
+    {id:3,nome:"Vinho", cor:"Vermelho"},
+    {id:4,nome:"Azul", cor:"Amarelo"},
 
     
 ];
